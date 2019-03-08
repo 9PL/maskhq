@@ -1,0 +1,11 @@
+{
+  "name": "MaskHQ",
+  "version": "1.0.0",
+  "description": "MaskHQ.net join today!",
+  "main": "bot.py",
+  "author": "9PL",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
